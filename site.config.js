@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "better late than never",
     email: "gyeongrok.kim@gomsang.com",
     linkedin: "",
-    github: "gomsang",
+    github: "",
     instagram: "",
   },
   projects: [{
